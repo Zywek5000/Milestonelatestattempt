@@ -1,5 +1,12 @@
 #THIS README GIVES BACKGROUND INFORMATION FOR THE DEVELOPMENT OF THE NEON GREEN webpage, and contains links to stages of the development process.
 
+Code from other sources: The webcounter, some help (modified by the author) for the 'buy button'; navbar help from code institute tutorials and slackoverflow; Liverpool Skyline from google image search; the idea for using social media links in the footer inspired by an earlier code institute tutorial. The method and code for the flashing 'order now' banner was taken from an online tutorial. 
+
+The 'Sounds' page was helped greatly by 'Soundcloud' and I would like to acknowledge the inclusion of their media player. The music is entirely the work of Jake Zywek, including all of the music, lyrics, and song titles. 
+
+
+ALL OTHER code has been commented/referenced in the Gitpod development source.
+
 NEON GREEN: A webpage for a Semi-Fictional Band
 
 Due to my interest in music, both playing and listening to, as well as production, I decided to play it safe by creating a website for a band. The sound files on the page are my own work, music as well as lyrics. I had considered other ideas, such as a website for a bar featuring gluten free beers, but I decided because I am new to web development, choosing a topic I am familiar with, such as music, would be a wiser option. To make the site uniform in appearence, and to give a nod to the Band's origins, I decided to feature the Liverpool Skyline, because it is instantly recognizable. 
