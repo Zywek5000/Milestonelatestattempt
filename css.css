@@ -319,6 +319,8 @@ width:180px;
 
 
 .gallery .row img {
+  
+  display:inline-block;
 
 white-space: nowrap;
 
