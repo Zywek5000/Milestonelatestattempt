@@ -318,7 +318,7 @@ width:180px;
 
 
 
-.gallery .row .img {
+.gallery .row img {
 
 white-space: nowrap;
 
@@ -342,6 +342,7 @@ width:100%;
 
 }
 
+.row{ 
 
 
 
