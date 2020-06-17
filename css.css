@@ -353,7 +353,7 @@ display: inline-block;
 }
 
 
-
+.row{display:block;}
 
 
 .play{color:chartreuse;}
