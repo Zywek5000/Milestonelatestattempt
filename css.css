@@ -353,7 +353,7 @@ display: inline-block;
 }
 
 
-.row{position:absolute;}
+.row{position:relative;}
 
 
 .play{color:chartreuse;}
