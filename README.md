@@ -2,7 +2,9 @@
 
 NEON GREEN: A webpage for a Semi-Fictional Band
 
-Due to my interest in music, both playing and listening to, as well as production, I decided to play it safe by creating a website for a band. The sound files on the page are my own work, music as well as lyrics. I had considered other ideas, such as a website for a bar featuring gluten free beers, but I decided because I am new to web development, choosing a topic I am familiar with, such as music, would be a wiser option. To make the site uniform in appearence, and to give a nod to the Band's origins, I decided to feature the Liverpool Skyline, because it is instantly recognizable.
+Due to my interest in music, both playing and listening to, as well as production, I decided to play it safe by creating a website for a band. The sound files on the page are my own work, music as well as lyrics. I had considered other ideas, such as a website for a bar featuring gluten free beers, but I decided because I am new to web development, choosing a topic I am familiar with, such as music, would be a wiser option. To make the site uniform in appearence, and to give a nod to the Band's origins, I decided to feature the Liverpool Skyline, because it is instantly recognizable. 
+
+Regarding the band name, any resemblance to a real or fictional band, is purely coincidental. 
 
 I wanted to stick to the brief, and did not want to overreach myself by creating something too unwieldly, so I opted for a number of pages that dealt with each aspect of a live, functioning band-the cover page, a band biography, gallery, Frequently Asked Questions,Shop, Contact, and a page with sound files of the band's music.
 
@@ -32,10 +34,15 @@ CSS-the author's own work, as well as code lifted from earlier code institute pr
 
 Bootstrap (for custom CSS)-I only used Bootstrap to show I had an awareness of the technology and how to use it; it wasn't used to substitute my own creative process.
 
-Testing
+
+
+
+Deployment/Testing
 
 The site was deployed onto Github in order to test whether the appearance and layout was working the same as on the Gitpod IDE. This proved to not be the case. Some editing was required, particularly on the Navbar and Headers, to make them center aligned. In addition, the banner offering a discount for the album was moved below the Navbar, and the 'Buy Album' button was moved onto the 'Sounds' page.
 
 The picture gallery also needed work, and changes to the CSS were required to make it easier on the eye: introducing 'display: block;' solved some of the issues.
 
 After these changes were wrought, the layout improved, and was more user friendly, and easier to navigate. The fact that the Navbar was now at the top of the home page, with nothing blocking its visibility, was a good improvement.
+
+The reason for differences in the Gitpod IDE version were for common sense and ease of use- for example the 'buy album' option was moved to the 'sounds' page, because I felt it would be better to hear versions of the band's music, and then be presented with a purchase option. 
