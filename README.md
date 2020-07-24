@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Zywek5000/index.html)
+
 #THIS README GIVES BACKGROUND INFORMATION FOR THE DEVELOPMENT OF THE NEON GREEN webpage, and contains links to stages of the development process.
 
 Code from other sources: The webcounter, some help (modified by the author) for the 'buy button'; navbar help from code institute tutorials and slackoverflow; Liverpool Skyline from google image search; the idea for using social media links in the footer inspired by an earlier code institute tutorial. The method and code for the flashing 'order now' banner was taken from an online tutorial. 
