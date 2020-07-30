@@ -318,12 +318,42 @@ width:180px;
 
 
 
-.gallery img{padding: 0;
-    display: block;
-    margin: 0 auto;
-    max-height: 100%;
-  max-width: 100%;}
+.gallery .row {
 
+white-space: nowrap;
+
+
+
+line-height:0;
+
+column-count:4;
+
+column-gap:0px;
+
+clear:both;
+
+line-height:0;
+
+column-count:4;
+
+column-gap:0px;
+
+width:100%;
+
+}
+
+
+
+.gallery .img {
+
+display: inline-block;
+
+
+
+}
+
+
+.row{display:block;}
 
 
 .play{color:chartreuse;}
