@@ -1,90 +1,43 @@
 body {
-
-
-
-
 background-image: url("https://images.squarespace-cdn.com/content/v1/51cad0cfe4b0217d60343133/1460759339674-KE362PSW6DNFXYLW3E3M/ke17ZwdGBToddI8pDm48kL4Jm-i_hfcvWGx53frTPPIUqsxRUqqbr1mOJYKfIPR7oI24p9UAmYbMwF9D5BPmK6EKJFeAxzfX84zci0ICoMn2qGF4aeh8SMGSJO_jIt07InPi9iDjx9w8K4ZfjXt2duQOAqPBjZ0pPKjAGNCLpQl1-6L-ELRYalRyecr0cAgKm4bjm9DAHF2kOsIZRJKXnA/Liverpool-Skyline-Panoramic-Landscape-Photograph.jpg?format=2500w");
-
 }
 
-
-
-
-
 @media screen and (max-width:1393px){
-
-
-
 .tourdates{font-size:100px;
-
-
-
 text-align: center;
-
 text-transform: uppercase;
-
 margin-left: 0;
-
 margin-right: 0; }
 
 
 
-.buyalbum{
-  color:greenyellow;
-
 font-size:20px;
-
 text-align:center;
-
 margin-left: 0;
-
 margin-right: 0;}
 
 
 
-
-
-
 h1{color:orange;
-
 font-size: 100px;
-
 text-align: center;
-
 text-transform: uppercase;
-
 margin-left: 0;
-
 margin-right: 0; }
-
-
 
 h2{color:greenyellow;
-
 font-size: 40px;
-
 text-align: center;
 
 text-transform: uppercase;
-
 margin-left: 0;
-
 margin-right: 0; }
-
-}
-
-
-
 
 
 .banner{color:greenyellow;
-
 text-align: center;
-
 font-size:20px;
-
 scroll-behavior: 1;
-
 margin-left: 0;
 
 margin-right: 0; 
@@ -92,37 +45,20 @@ margin-right: 0;
 }
 
 .menu{font-size:25px;
-
 padding: 0;
-
 width:100%;
-
 list-style: none;
-
 text-align:center;
-
 margin-left: 0;
-
 margin-right: 0; 
 
 
 
 }
 
-
-
-
-
-
-
-
-
 .menu li {color:white;
-
 margin: auto;
-
 list-style:none;
-
 display:inline;
 
 
@@ -140,21 +76,9 @@ display:inline;
 .menu li a{
 
 display: inline-block;
-
 margin: auto;
-
 margin-right:0.2em;
-
 padding:10px;
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -172,7 +96,6 @@ text-align:center;
 
 
 .social-networks li{
-
 display:inline;
 
 }
@@ -182,11 +105,8 @@ display:inline;
 
 
 .social-networks i{
-
 font-size:160%;
-
 margin:1%;
-
 padding:5%;}
 
 
@@ -321,23 +241,13 @@ width:180px;
 .gallery .row {
 
 white-space: nowrap;
-
-
-
 line-height:0;
-
 column-count:4;
-
 column-gap:0px;
-
 clear:both;
-
 line-height:0;
-
 column-count:4;
-
 column-gap:0px;
-
 width:100%;
 
 }
