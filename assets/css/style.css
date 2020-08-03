@@ -9,8 +9,6 @@ text-transform: uppercase;
 margin-left: 0;
 margin-right: 0; }
 
-
-
 font-size:20px;
 text-align:center;
 margin-left: 0;
@@ -51,27 +49,13 @@ list-style: none;
 text-align:center;
 margin-left: 0;
 margin-right: 0; 
-
-
-
 }
 
 .menu li {color:white;
 margin: auto;
 list-style:none;
 display:inline;
-
-
-
-
-
-
-
 }
-
-
-
-
 
 .menu li a{
 
@@ -81,27 +65,19 @@ margin-right:0.2em;
 padding:10px;
 }
 
-
-
 .menu li a:hover{ color: white;}
 
 
 
 .social-networks{
-
 text-align:center;
-
 }
 
 
 
 .social-networks li{
 display:inline;
-
 }
-
-
-
 
 
 .social-networks i{
@@ -110,34 +86,17 @@ margin:1%;
 padding:5%;}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .question{font-size:25px;
-
 color:greenyellow;}
 
 
 
 .question2{font-size:25px;
-
 color:greenyellow;}
 
 
 
 .question3{font-size:25px;
-
 color:greenyellow;} 
 
 
@@ -145,13 +104,7 @@ color:greenyellow;}
 
 
 .shoplink{font-size: 25px;
-
 color:greenyellow;}
-
-
-
-
-
 
 
 .orange{color:orange;}
@@ -161,33 +114,19 @@ color:greenyellow;}
 .main{border-radius:50%;}
 
 
-
-
-
-
-
 .centered{
-
 position: fixed;
-
 top: 50%;
-
 left: 50%;
-
 bottom:50%;
-
 border-radius:50%;
-
 transform: translate(-50%, -50%)
-
 }
 
 
 
 .address{
-
 text-align: center;
-
 color:orange;
 
 }
@@ -196,26 +135,13 @@ color:orange;
 
 font-size:30px; }
 
-
-
-
-
 .timetable{color:whitesmoke;}
 
-
-
 .address{font-size:30px;}
-
-
 
 .paragraph{font-size:25px;
 
 color:greenyellow;}
-
-
-
-
-
 
 
 .bright{color:darkorange;}
@@ -223,20 +149,13 @@ color:greenyellow;}
 
 
 .img-fluid{width:50%;
-
 height:50%;
-
 float: left;
-
 width:180px;
 
 }
 
-
-
 .countrycitydate{color:greenyellow;}
-
-
 
 .gallery .row {
 
@@ -255,11 +174,7 @@ width:100%;
 
 
 .gallery .img {
-
 display: inline-block;
-
-
-
 }
 
 
@@ -268,10 +183,6 @@ display: inline-block;
 
 .play{color:chartreuse;}
 
-
-
-
-
 .blinking{animation:blinkingText 1.2s infinite;
 
 }
@@ -279,55 +190,27 @@ display: inline-block;
 @keyframes blinkingText{
 
 0%{ color:greenyellow; }
-
 49%{ color:greenyellow; }
-
 60%{ color: transparent; }
-
 99%{ color:transparent; }
-
 100%{ color:greenyellow; }
 
 }
-
-
-
 .texthighlight{background-color:gray;}
-
-
-
 .mobile{color:darkblue;}
-
-
-
 .landline{color:darkblue;}
-
-
-
 .tr{color:greenyellow;}
-
-
-
 .payment{color:orange;}
 
-
-
-
-
 .credit-card-box .panel-title {
-
 display: inline;
-
 font-weight: bold;
 
 }
 
 .credit-card-box .form-control.error {
-
 border-color: red;
-
 outline: 0;
-
 box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(255,0,0,0.6);
 
 }
@@ -335,65 +218,40 @@ box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(255,0,0,0.6);
 .credit-card-box label.error {
 
 font-weight: bold;
-
 color: red;
-
 padding: 2px 8px;
-
 margin-top: 2px;
 
 }
 
 .credit-card-box .payment-errors {
-
 font-weight: bold;
-
 color: red;
-
 text-align:center;
-
 padding: 2px 8px;
-
 margin-top: 2px;
 
 }
 
 .credit-card-box label {
-
 display: block;
-
-
-
 }
 
-
-
 .credit-card-box .display-table {
-
 display: table;
-
 }
 
 .credit-card-box .display-tr {
-
 display: table-row;
-
 }
 
 .credit-card-box .display-td {
-
 display: table-cell;
-
 vertical-align: middle;
-
 width: 150%;
 
 }
-
-
-
 .credit-card-box .panel-heading img {
-
 min-width: 280px;
 
 }
