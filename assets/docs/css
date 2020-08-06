@@ -318,31 +318,6 @@ width:180px;
 
 
 
-.gallery .row {
-
-white-space: nowrap;
-
-
-
-line-height:0;
-
-column-count:4;
-
-column-gap:0px;
-
-clear:both;
-
-line-height:0;
-
-column-count:4;
-
-column-gap:0px;
-
-width:100%;
-
-}
-
-
 
 .gallery .img {
 
