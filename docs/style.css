@@ -176,7 +176,7 @@ width:180px;
 .countrycitydate{color:greenyellow;}
 
 .gallery .row {
-    margin: right;
+    text-align:center;
 white-space: nowrap;
 line-height:0;
 column-count:4;
@@ -193,7 +193,8 @@ width:100%;
 
 
 .gallery .img {
-
+    text-align:center;
+margin:auto;
 display: inline-block;
 
 
@@ -201,7 +202,7 @@ display: inline-block;
 }
 
 
-.row{display:block;}
+
 
 
 .play{color:chartreuse;}
